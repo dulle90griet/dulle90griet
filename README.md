@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dulle90griet, also known as Donald.
-- 🌱 I’m currently learning more about extracting text from images in **Google Cloud**, **Azure** and **AWS**, and deepening my familiarity with **asynchronous programming in Python**.
+- 🌱 I’m currently learning more about extracting text from images using the various OCR and AI services offered by **Google Cloud**, **Azure** and **AWS**, and deepening my familiarity with **asynchronous programming in Python**.
 - 👀 Why not check out some of the repos I'm working on?
 
 <!---
